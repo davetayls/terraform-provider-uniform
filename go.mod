@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding
+module github.com/davetayls/terraform-provider-uniform
 
 go 1.18
 
